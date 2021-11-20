@@ -1,0 +1,8 @@
+spring:
+  date:
+    mongodb:
+      host: 127.0.0.1
+      port: 2701
+      database: test
+      repositories:
+        type: auto
